@@ -5,4 +5,4 @@ router.post('/signup', (req, res) => {
     res.send('You made a post request');
 });
 
-module.export = router;
+module.exports = router;
